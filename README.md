@@ -7,7 +7,7 @@ For my **Geog495** final project, I build  a Seattle FireStation locator using M
 [Seattle FireStation Locator](https://zeyany2.github.io/geog495_finalproject/)
 
 ## Screen Shot of my Application
-[Seattle FireStation Locator Application](/img/application.png)
+![Seattle FireStation Locator Application](/img/application.png)
 
 ## Data Source
 [Seattle GeoData](https://data-seattlecitygis.opendata.arcgis.com/)
